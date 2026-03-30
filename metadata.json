@@ -1,0 +1,5 @@
+{
+  "name": "Tina 疯狂 8 点",
+  "description": "一款经典的疯狂 8 点纸牌游戏，使用 React、Tailwind CSS 和 Framer Motion 构建。在策略性的纸牌对决中挑战智能电脑。",
+  "requestFramePermissions": []
+}
